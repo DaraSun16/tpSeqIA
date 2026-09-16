@@ -105,3 +105,14 @@ Notre LLM locale n'a pas accès à la recherche web, il tire ses réponses de se
 - **Données** : 
   - informations brutes (texte, image, nombre...) utilisées pour entraîner ou interroger un modèle.
 
+## BONUS ##
+
+- **Fine-Tuning**
+  - ré-entraînement partiel d'un modèle pré-entraîné sur des données spécifiques pour spécialiser son comportement.
+- **Quantization**
+  - réduction de la précision numérique des poids d'un modèle pour le rendre plus léger et rapide (ex : modèles Ollama en Q4, Q8).
+- **VRAM**
+  - mémoire graphique de la carte vidéo, ressource critique pour exécuter des LLM localement.
+- **Prompt Engineering**
+  - art de formuler des prompts pour optimiser la qualité des réponses d'un LLM.
+
